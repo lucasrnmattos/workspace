@@ -1,0 +1,15 @@
+
+public class Hanoi3D {
+
+	public static void main(String[] args) {
+	System.out.println("Mover disco ROSA para TORRE 3");
+	System.out.println("Mover disco LILÁS para TORRE 2");
+	System.out.println("Mover disco ROSA para TORRE 2");
+	System.out.println("Mover disco ROXO para TORRE 3");
+	System.out.println("Mover disco ROSA para TORRE 1");
+	System.out.println("Mover disco ROSA para TORRE 1");
+	System.out.println("Mover disco LILÁS para TORRE 2");
+	System.out.println("Mover disco ROSA para TORRE 3");
+	}
+
+}

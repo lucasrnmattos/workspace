@@ -1,0 +1,18 @@
+import javax.swing.JOptionPane;
+
+public class questa04 {
+
+	public static void main(String[] args) {
+		int conta = Integer.parseInt(JOptionPane.showInputDialog("Digite 1 número"));
+		int servico;
+		int total;
+		
+		servico = (conta * 10) / 100;
+		total = conta + servico;
+		
+		
+		JOptionPane.showMessageDialog(null, "A taxa de serviço é: "+ servico);
+		
+	}
+
+}

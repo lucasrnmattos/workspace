@@ -1,0 +1,16 @@
+package atividade02;
+
+public class Hanoi3D {
+
+	public static void main(String[] args) {
+	System.out.println(Mover disco rosa para torre 3);
+	System.out.println(Mover disco lilás para torre 2);
+	System.out.println(Mover disco rosa para torre 2);
+	System.out.println(Mover disco roxo para torre 3);
+	System.out.println(Mover disco rosa para torre 1);
+	System.out.println(Mover disco lilás para torre 2);
+	System.out.println(Mover disco rosa para torre 3);
+	
+	}
+
+}

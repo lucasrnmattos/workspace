@@ -1,0 +1,15 @@
+import javax.swing.JOptionPane;
+
+public class questa04 {
+
+	public static void main(String[] args) {
+		int num1 = Integer.parseInt(JOptionPane.showInputDialog("Digite 1 número"));
+		int cento;
+		
+		cento = num1 % 10
+		
+		JOptionPane.showMessageDialog(null, "A média dos números é: "+cento);
+		
+	}
+
+}

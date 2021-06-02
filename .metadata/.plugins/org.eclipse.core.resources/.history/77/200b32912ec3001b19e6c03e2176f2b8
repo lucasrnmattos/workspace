@@ -1,0 +1,9 @@
+
+public class teste {
+
+	public static void main(int[] args) {
+		int x = "666";
+		System.out.println(x);
+	}
+
+}
